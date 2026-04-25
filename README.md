@@ -3,7 +3,6 @@ Modrinth: https://modrinth.com/mod/endless_backrooms
 Bilibili video: https://www.bilibili.com/video/BV1BPcizJEjp?spm_id_from=333.788.videopod.sections&vd_source=9c170d24e08bc904c5505ea646542aab
 
 
-
 **⚠️ 1. Disclaimer & Safety Warning**
 
 This mod contains **mild horror elements** (sound effects, visuals, etc.). If you feel uncomfortable while playing, please exit the game immediately. The author is not responsible for any psychological or physical discomfort caused by playing this mod. Please ensure you are in a suitable mental and physical condition to play such content.
@@ -41,10 +40,15 @@ Welcome to Endless Backrooms, a survival horror mod that brings the Backrooms in
 **How to start**
 
 Create a new world in Minecraft. Then, find a way to get stuck in blocks. Upon dying from suffocate, you will noclip directly into Level 0. Good luck, Wanderer.
+
 Levels:
-- level 0
-- level 1 (coming soon)
- 
+
+level 0
+
+level 1 (0.2.0):
+- Aquila Sector (0.2.0)
+- Gild Sector (0.2.3)
+
 **Community & Supports**
 
 The backrooms website referenced by this mod(en): [The Backrooms Wiki](https://backrooms-wiki.wikidot.com/)
@@ -62,8 +66,12 @@ Issues report: [Issues tracker (github)](https://github.com/stressed-out1145/End
 在 Minecraft 中创建一个新世界。设法让自己窒息（被方块卡住）。当你因窒息而死亡时，你将直接卡入 Level 0。祝你好运，流浪者。
 
 层级:
-- level 0
-- level 1 (即将到来)
+
+level 0
+
+level 1 (0.2.0):
+- Aquila Sector (0.2.0)
+- Gild Sector (0.2.3)
 
 **社区 & 支持**
 
@@ -74,3 +82,7 @@ Issues report: [Issues tracker (github)](https://github.com/stressed-out1145/End
 B站模组介绍视频(zh)：[《无尽的后室》模组介绍视频](https://www.bilibili.com/video/BV1BPcizJEjp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=9c170d24e08bc904c5505ea646542aab)
 
 问题/bug反馈: [反馈渠道 (github)](https://github.com/stressed-out1145/EndlessBackroomsMinecraftMod/issues)
+
+MCMOD百科站(zh) [《无尽的后室》模组教程(mcmod上)](https://www.mcmod.cn/class/25989.html)
+
+QQ群：666715026
