@@ -1,7 +1,8 @@
 Modrinth: https://modrinth.com/mod/endless_backrooms
 
-Bilibili video: https://www.bilibili.com/video/BV1BPcizJEjp?spm_id_from=333.788.videopod.sections&vd_source=9c170d24e08bc904c5505ea646542aab
+⚠️ 环境适配：模组需要在 Java 21 的环境下运行！
 
+⚠️ Environment compatibility: This mod needs to run in a Java 21 environment!
 
 **⚠️ 1. Disclaimer & Safety Warning**
 
@@ -46,14 +47,23 @@ Levels:
 level 0
 
 level 1 (0.2.0):
-- Aquila Sector (0.2.0)
-- Gild Sector (0.2.3)
+- Aquila Sector (0.2.0 / 0.3.7)
+- Gild Sector (0.2.3 / 0.3.9)
+- Gothic Sector (0.3.10)
+- Ouroboros Sector (0.4.1)
+- Garden Sector (0.4.0)
+- Fabled Sector (0.4.1)
+- M.E.G.Base Alpha (0.2.6 / 0.4.0)
+
+level 2 (0.3.0 / 0.3.8)
+
+level 3 (0.4.0)
 
 **Community & Supports**
 
 The backrooms website referenced by this mod(en): [The Backrooms Wiki](https://backrooms-wiki.wikidot.com/)
 
-A simple mod guide(en) : [Endless Backrooms -- Mod Guide](https://docs.qq.com/doc/DSVRSQkpad0FOWUVE)
+A simple mod guide - Stop updating(en) : [Endless Backrooms -- Mod Guide (Stop updating)](https://docs.qq.com/doc/DSVRSQkpad0FOWUVE)
 
 Issues report: [Issues tracker (github)](https://github.com/stressed-out1145/EndlessBackroomsMinecraftMod/issues)
 
@@ -70,14 +80,23 @@ Issues report: [Issues tracker (github)](https://github.com/stressed-out1145/End
 level 0
 
 level 1 (0.2.0):
-- Aquila Sector (0.2.0)
-- Gild Sector (0.2.3)
+- 天鹰段 (0.2.0 / 0.3.7)
+- 跃金段 (0.2.3 / 0.3.9)
+- 哥特段 (0.3.10)
+- 衔尾段 (0.4.1)
+- 花园段 (0.4.0)
+- 传说段 (0.4.1)
+- M.E.G. Alpha基地 (0.2.6 / 0.4.0)
+
+level 2 (0.3.0 / 0.3.8)
+
+level 3 (0.4.0)
 
 **社区 & 支持**
 
 本模组所参考的后室资料站(zh)：[The Backrooms中文维基](https://backrooms-wiki-cn.wikidot.com/)
 
-简易的模组游玩教程(zh)：[《无尽的后室》模组游玩教程](https://docs.qq.com/doc/DSWVPWHNQcG1iVVNZ)
+简易的模组游玩教程 - 已过期/停更(zh)：[《无尽的后室》模组游玩教程 - 已过期/停更](https://docs.qq.com/doc/DSWVPWHNQcG1iVVNZ)
 
 B站模组介绍视频(zh)：[《无尽的后室》模组介绍视频](https://www.bilibili.com/video/BV1BPcizJEjp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=9c170d24e08bc904c5505ea646542aab)
 
